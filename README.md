@@ -65,10 +65,26 @@ DBMS_SEM3_FILE/
     │   ├── indexing_performance.sql                   # 5,000-row Railway dataset, B-Tree indexes & EXPLAIN tests
     │   └── README.md                                  # Execution plan analysis and performance benchmarks
     │
-    └── Experiment_10_Query_Optimization/
-        ├── query_optimization.sql                     # 10,000-row dataset, anti-pattern rewrites & optimization
-        └── README.md                                  # Slow queries analysis and before/after benchmarks
+    ├── Experiment_10_Query_Optimization/
+    │   ├── query_optimization.sql                     # 10,000-row dataset, anti-pattern rewrites & optimization
+    │   └── README.md                                  # Slow queries analysis and before/after benchmarks
+    │
+    └── Certifications/
+        ├── HackerRank_Certificate_of_SQL.jpg          # HackerRank SQL (Basic) Certificate
+        ├── Infosys_Springboard_SQL_Developer_Certificate.jpg # Infosys Springboard SQL Developer Certificate
+        └── README.md                                  # Certification credentials, IDs and verification links
 ```
+
+---
+
+## 🎓 Industry Certifications
+
+Professional certifications earned by **Tarandeep Kaur Oberoi** in SQL and Database Engineering:
+
+1. **HackerRank - SQL (Basic) Certification** (ID: `0E99697530C9` | Issued Nov 18, 2026)
+2. **Infosys Springboard - SQL Developer Certification** (Completed Nov 18, 2026)
+
+👉 View credential copies and verification details in [Certifications Folder](./DBMS_LAB_FILE/Certifications) | [README](./DBMS_LAB_FILE/Certifications/README.md).
 
 ---
 
